@@ -53,6 +53,11 @@ Libraries/Frameworks:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 
-# 📈 Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=carl-joseph-salac&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carl-joseph-salac&theme=tokyonight)
+<div align="center">
+  
+  # 📈 Github Stats:
+  ![](https://github-readme-stats.vercel.app/api?username=carl-joseph-salac&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carl-joseph-salac&theme=tokyonight)
+
+</div>
+
