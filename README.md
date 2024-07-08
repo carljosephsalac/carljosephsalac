@@ -5,7 +5,6 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 
 ## 🚀 What I'm Currently Working On
 
-- 🟢 Exploring frontend frameworks. I'm currently learning [Vue.js](https://vuejs.org/)
 - 💻 Building [Laravel](https://laravel.com/) applications
 
 I'm also creating tech related content:
@@ -50,8 +49,6 @@ Libraries/Frameworks:
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 
 <div align="center">
   
