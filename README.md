@@ -9,46 +9,39 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 
 I'm also creating tech related content:
 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@carl.salac)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@CJSTechPh)
+[![TikTok](https://img.shields.io/badge/Tiktok-black?logo=tiktok)](https://www.tiktok.com/@carl.salac)
+[![YouTube](https://img.shields.io/badge/Youtube-%23FF0000?logo=youtube&logoColor=white)](https://youtube.com/@CJSTechPh)
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carl-joseph-salac-800584200/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/carl15joseph/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/carl-joseph-salac-800584200/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/carl15joseph/)
 
 # 💻 Tech Stack:
 Languages: 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-Developer Tools: 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-%234479A1?logo=mysql&logoColor=white)
+![SQLITE](https://img.shields.io/badge/SQLITE-%23003B57?logo=sqlite&logoColor=white)
 
 Libraries/Frameworks: 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Laravel](https://img.shields.io/badge/LARAVEL-%23FF2D20?logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TAILWIND-%2306B6D4?logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DAISYUI-%235A0EF8?logo=daisyui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%237952B3?logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/JQUERY-%230769AD?logo=jquery&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-%23646CFF?logo=vite&logoColor=white)
+![Chart.js](https://img.shields.io/badge/CHARTJS-%23FF6384?logo=chartdotjs&logoColor=white)
+
+Developer Tools:
+![GIT](https://img.shields.io/badge/GIT-%23F05032?logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-%23181717?logo=github&logoColor=white)
+![GITHUB PAGES](https://img.shields.io/badge/GITHUB_PAGES-%23222222)
+![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24?logo=xampp&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/POSTMAN-%23FF6C37?logo=postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-%230052CC?logo=jira&logoColor=white)
 
 <div align="center">
   
