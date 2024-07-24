@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋 I'm Carl Joseph Salac</h1>
-
-# 😃 About Me:
+# About Me:
 I graduated at University of Rizal System Cainta with the degree of Bachelor of Science in Information Technology. I am passionate about software development and continuously learning various technologies to build robust applications.
 
-## 🚀 What I'm Currently Working On
+# What I'm Currently Working On
 
-- 💻 Building [Laravel](https://laravel.com/) applications
+-  Building [Laravel](https://laravel.com/) applications
 
 I'm also creating tech related content:
 
@@ -13,11 +11,11 @@ I'm also creating tech related content:
 [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000?logo=youtube&logoColor=white)](https://youtube.com/@CJSTechPh)
 
 
-## 🌐 Connect with me:
+#  Connect with me:
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/carl-joseph-salac-800584200/)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/carl15joseph/)
 
-# 💻 Tech Stack:
+#  Tech Stack:
 Languages: 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
@@ -45,7 +43,7 @@ Developer Tools:
 
 <div align="center">
   
-  # 📈 Github Stats:
+  # Github Stats:
   ![](https://github-readme-stats.vercel.app/api?username=carl-joseph-salac&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carl-joseph-salac&theme=tokyonight)
 
