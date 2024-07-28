@@ -44,7 +44,7 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 
 <div align="center">
   
-  # Github Stats:
+  # Github Stats
   ![](https://github-readme-stats.vercel.app/api?username=carl-joseph-salac&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carl-joseph-salac&theme=tokyonight)
 
