@@ -38,8 +38,8 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 
 
 #  Connect with me
-[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/carl-joseph-salac-800584200/)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/carl15joseph/)
+- [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/carl-joseph-salac-800584200/)
+- [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/carl15joseph/)
 
 
 
