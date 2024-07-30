@@ -32,10 +32,9 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 
 -  Building [Laravel](https://laravel.com/) applications
 
-- I'm also creating tech related content
+- I'm also creating programming related content on 
 
   [![TikTok](https://img.shields.io/badge/Tiktok-black?logo=tiktok)](https://www.tiktok.com/@carl.salac)
-[![YouTube](https://img.shields.io/badge/Youtube-%23FF0000?logo=youtube&logoColor=white)](https://youtube.com/@CJSTechPh)
 
 
 #  Connect with me
