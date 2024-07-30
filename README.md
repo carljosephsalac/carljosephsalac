@@ -1,20 +1,6 @@
 # About Me
 I graduated at University of Rizal System Cainta with the degree of Bachelor of Science in Information Technology. I am passionate about software development and continuously learning various technologies to build robust applications.
 
-# What I'm Currently Working On
-
--  Building [Laravel](https://laravel.com/) applications
-
-- I'm also creating tech related content
-
-  [![TikTok](https://img.shields.io/badge/Tiktok-black?logo=tiktok)](https://www.tiktok.com/@carl.salac)
-[![YouTube](https://img.shields.io/badge/Youtube-%23FF0000?logo=youtube&logoColor=white)](https://youtube.com/@CJSTechPh)
-
-
-#  Connect with me
-[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/carl-joseph-salac-800584200/)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/carl15joseph/)
-
 #  Tech Stack
 
 - Languages: 
@@ -41,6 +27,22 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24?logo=xampp&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-%23FF6C37?logo=postman&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-%230052CC?logo=jira&logoColor=white)
+
+# What I'm Currently Working On
+
+-  Building [Laravel](https://laravel.com/) applications
+
+- I'm also creating tech related content
+
+  [![TikTok](https://img.shields.io/badge/Tiktok-black?logo=tiktok)](https://www.tiktok.com/@carl.salac)
+[![YouTube](https://img.shields.io/badge/Youtube-%23FF0000?logo=youtube&logoColor=white)](https://youtube.com/@CJSTechPh)
+
+
+#  Connect with me
+[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/carl-joseph-salac-800584200/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/carl15joseph/)
+
+
 
 <div align="center">
   
