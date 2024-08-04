@@ -28,6 +28,13 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-%23FF6C37?logo=postman&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-%230052CC?logo=jira&logoColor=white)
 
+# Projects
+- http://cjscms.infinityfreeapp.com/
+- https://cjs-ems.infinityfreeapp.com/
+- http://crudwithauth.rf.gd/
+- https://carljosephsalac.github.io/cjs-ecommerce/
+- https://carljosephsalac.github.io/cjstech-website/
+
 # What I'm Currently Working On
 
 -  Building [Laravel](https://laravel.com/) applications
