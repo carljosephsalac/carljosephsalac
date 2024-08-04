@@ -29,11 +29,11 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 ![JIRA](https://img.shields.io/badge/JIRA-%230052CC?logo=jira&logoColor=white)
 
 # Projects
-- http://cjscms.infinityfreeapp.com/
-- https://cjs-ems.infinityfreeapp.com/
-- http://crudwithauth.rf.gd/
-- https://carljosephsalac.github.io/cjs-ecommerce/
-- https://carljosephsalac.github.io/cjstech-website/
+- <a href="http://cjscms.infinityfreeapp.com/" target="_blank" title="CJSCMS">http://cjscms.infinityfreeapp.com/</a><br>
+- <a href="https://cjs-ems.infinityfreeapp.com/" target="_blank" title="CJS EMS">https://cjs-ems.infinityfreeapp.com/</a><br>
+- <a href="http://crudwithauth.rf.gd/" target="_blank" title="CRUD with Auth">http://crudwithauth.rf.gd/</a><br>
+- <a href="https://carljosephsalac.github.io/cjs-ecommerce/" target="_blank" title="CJS Ecommerce">https://carljosephsalac.github.io/cjs-ecommerce/</a><br>
+- <a href="https://carljosephsalac.github.io/cjstech-website/" target="_blank" title="CJS Tech Website">https://carljosephsalac.github.io/cjstech-website/</a>
 
 # What I'm Currently Working On
 
