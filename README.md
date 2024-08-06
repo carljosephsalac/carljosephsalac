@@ -29,9 +29,9 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 ![JIRA](https://img.shields.io/badge/JIRA-%230052CC?logo=jira&logoColor=white)
 
 # Projects
-- http://cjscms.infinityfreeapp.com
+- https://cjscms.infinityfreeapp.com
 - https://cjs-ems.infinityfreeapp.com
-- http://crudwithauth.rf.gd
+- https://crudwithauth.rf.gd
 - https://carljosephsalac.github.io/cjs-ecommerce
 - https://carljosephsalac.github.io/cjstech-website
 
