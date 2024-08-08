@@ -10,6 +10,9 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-%234479A1?logo=mysql&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLITE-%23003B57?logo=sqlite&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-%23f89820?logo=openjdk&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/KOTLIN-%237F52FF?logo=kotlin&logoColor=white)
+
 
 - Libraries/Frameworks: 
 ![Laravel](https://img.shields.io/badge/LARAVEL-%23FF2D20?logo=laravel&logoColor=white)
@@ -23,7 +26,6 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 - Developer Tools:
 ![GIT](https://img.shields.io/badge/GIT-%23F05032?logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-%23181717?logo=github&logoColor=white)
-![GITHUB PAGES](https://img.shields.io/badge/GITHUB_PAGES-%23222222)
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24?logo=xampp&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-%23FF6C37?logo=postman&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-%230052CC?logo=jira&logoColor=white)
