@@ -58,6 +58,8 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
   # Github Stats
   ![](https://github-readme-stats.vercel.app/api?username=carljosephsalac&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carljosephsalac&theme=tokyonight)
+  
+   <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carljosephsalac&show_icons=true&locale=en&layout=compact&theme=dark" alt="carljosephsalac" /> -->
 
 </div>
 
