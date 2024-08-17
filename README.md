@@ -31,11 +31,10 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 ![JIRA](https://img.shields.io/badge/JIRA-%230052CC?logo=jira&logoColor=white)
 
 # Projects
+- https://cjs-csm.infinityfreeapp.com
+- https://cjs-csm-admin.infinityfreeapp.com
 - https://cjs-university.infinityfreeapp.com
 - https://cjscms.infinityfreeapp.com
-- https://cjs-ems.infinityfreeapp.com
-- https://crudwithauth.rf.gd
-- https://carljosephsalac.github.io/cjs-ecommerce
 - https://carljosephsalac.github.io/cjstech-website
 
 # What I'm Currently Working On
