@@ -32,7 +32,6 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 
 # Projects
 - https://cjs-csm.infinityfreeapp.com
-- https://cjs-csm-admin.infinityfreeapp.com
 - https://cjs-university.infinityfreeapp.com
 - https://cjscms.infinityfreeapp.com
 - https://carljosephsalac.github.io/cjstech-website
