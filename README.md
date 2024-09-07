@@ -8,20 +8,19 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-%234479A1?logo=mysql&logoColor=white)
-![SQLITE](https://img.shields.io/badge/SQLITE-%23003B57?logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2306B6D4?logo=zaim&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-%23f89820?logo=openjdk&logoColor=white)
 ![KOTLIN](https://img.shields.io/badge/KOTLIN-%237F52FF?logo=kotlin&logoColor=white)
 
 
 - Libraries/Frameworks: 
 ![Laravel](https://img.shields.io/badge/LARAVEL-%23FF2D20?logo=laravel&logoColor=white)
+![Vue](https://img.shields.io/badge/VUE-%234FC08D?logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TAILWIND-%2306B6D4?logo=tailwindcss&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DAISYUI-%235A0EF8?logo=daisyui&logoColor=white)
+![Flowbite](https://img.shields.io/badge/FLOWBITE-%231a56db?logo=appium&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%237952B3?logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/JQUERY-%230769AD?logo=jquery&logoColor=white)
-![Vite](https://img.shields.io/badge/VITE-%23646CFF?logo=vite&logoColor=white)
-![Chart.js](https://img.shields.io/badge/CHARTJS-%23FF6384?logo=chartdotjs&logoColor=white)
 
 - Developer Tools:
 ![GIT](https://img.shields.io/badge/GIT-%23F05032?logo=git&logoColor=white)
@@ -31,18 +30,9 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 ![JIRA](https://img.shields.io/badge/JIRA-%230052CC?logo=jira&logoColor=white)
 
 # Projects
-- https://cjs-csm.infinityfreeapp.com
-- https://cjs-university.infinityfreeapp.com
-- https://cjscms.infinityfreeapp.com
-- https://carljosephsalac.github.io/cjstech-website
+- https://carljosephsalac.github.io/portfolio/#/projects
 
-# What I'm Currently Working On
 
--  Building [Laravel](https://laravel.com/) applications
-
-- I'm also creating programming related content
-
-  [![TikTok](https://img.shields.io/badge/Tiktok-black?logo=tiktok)](https://www.tiktok.com/@carl.salac)
 
 
 #  Connect with me
