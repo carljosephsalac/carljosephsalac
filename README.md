@@ -3,7 +3,8 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 
 #  Tech Stack
 
-- Languages: 
+Languages:
+
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript)
@@ -13,7 +14,8 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 ![KOTLIN](https://img.shields.io/badge/KOTLIN-%237F52FF?logo=kotlin&logoColor=white)
 
 
-- Libraries/Frameworks: 
+Libraries/Frameworks: 
+
 ![Laravel](https://img.shields.io/badge/LARAVEL-%23FF2D20?logo=laravel&logoColor=white)
 ![Vue](https://img.shields.io/badge/VUE-%234FC08D?logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TAILWIND-%2306B6D4?logo=tailwindcss&logoColor=white)
@@ -22,7 +24,8 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%237952B3?logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/JQUERY-%230769AD?logo=jquery&logoColor=white)
 
-- Developer Tools:
+Developer Tools:
+
 ![GIT](https://img.shields.io/badge/GIT-%23F05032?logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-%23181717?logo=github&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24?logo=xampp&logoColor=white)
@@ -30,14 +33,14 @@ I graduated at University of Rizal System Cainta with the degree of Bachelor of 
 ![JIRA](https://img.shields.io/badge/JIRA-%230052CC?logo=jira&logoColor=white)
 
 # Projects
-- https://carljosephsalac.github.io/portfolio/#/projects
+https://carljosephsalac.github.io/portfolio/#/projects
 
 
 
 
 #  Connect with me
-- [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/carl-joseph-salac-800584200/)
-- [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/carl15joseph/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/carl-joseph-salac-800584200/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/carl15joseph/)
 
 
 
