@@ -1,7 +1,11 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Carl!;" />
+</h1>
+
 # About Me
 I graduated at University of Rizal System Cainta with the degree of Bachelor of Science in Information Technology. I am passionate about software development and continuously learning various technologies to build user-friendly and robust applications.
 
-#  Tech Stack
+# Tech Stack
 
 Languages:
 
@@ -33,12 +37,12 @@ Developer Tools:
 ![JIRA](https://img.shields.io/badge/JIRA-%230052CC?logo=jira&logoColor=white)
 
 # Projects
-https://carljosephsalac.github.io/portfolio/#/projects
+<a href="https://carljosephsalac.github.io/portfolio/#/projects">Click here</a>
 
 
 
 
-#  Connect with me
+# Connect with me
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/carl-joseph-salac-800584200/)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/carl15joseph/)
 
@@ -47,7 +51,7 @@ https://carljosephsalac.github.io/portfolio/#/projects
 <div align="center">
   
   # Github Stats
-  ![](https://github-readme-stats.vercel.app/api?username=carljosephsalac&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api?username=carljosephsalac&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carljosephsalac&theme=tokyonight&exclude_repo=csm-admin-dashboard,chess-pain)
   
    <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carljosephsalac&show_icons=true&locale=en&layout=compact&theme=dark" alt="carljosephsalac" /> -->
