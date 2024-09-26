@@ -3,7 +3,7 @@
 </h1>
 
 # About Me
-I graduated at University of Rizal System Cainta with the degree of Bachelor of Science in Information Technology. I am passionate about software development and continuously learning various technologies to build user-friendly and robust applications.
+I am passionate about software development and continuously learning various technologies to build user-friendly and robust applications that solves real world problems.
 
 # Tech Stack
 
